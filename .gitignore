@@ -1,0 +1,36 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependencies
+venv/
+.venv/
+env/
+.ENV
+requirements.txt.bak
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+.env.*
+.env.local.*
+
+# Data files (if they contain sensitive info)
+note_app/data/notes.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+```
