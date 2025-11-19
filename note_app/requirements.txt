@@ -1,0 +1,3 @@
+# Requirements for the Ultimate Note Taking App
+# Currently using only standard library modules
+# No external dependencies needed for basic functionality
